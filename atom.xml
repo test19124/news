@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://test19124.github.io</id>
+    <id>https://news.lizishuo.ml</id>
     <title>博雅社</title>
-    <updated>2021-10-06T12:29:17.078Z</updated>
+    <updated>2021-10-06T12:36:34.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://test19124.github.io"/>
-    <link rel="self" href="https://test19124.github.io/atom.xml"/>
+    <link rel="alternate" href="https://news.lizishuo.ml"/>
+    <link rel="self" href="https://news.lizishuo.ml/atom.xml"/>
     <subtitle>北京外国语大学瑞安附属学校报社 | 博雅社</subtitle>
-    <logo>https://test19124.github.io/images/avatar.png</logo>
-    <icon>https://test19124.github.io/favicon.ico</icon>
+    <logo>https://news.lizishuo.ml/images/avatar.png</logo>
+    <icon>https://news.lizishuo.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, 博雅社</rights>
     <entry>
         <title type="html"><![CDATA[运动员‘各显神通’]]></title>
-        <id>https://test19124.github.io/post/yun-dong-yuan-ge-xian-shen-tong/</id>
-        <link href="https://test19124.github.io/post/yun-dong-yuan-ge-xian-shen-tong/">
+        <id>https://news.lizishuo.ml/post/yun-dong-yuan-ge-xian-shen-tong/</id>
+        <link href="https://news.lizishuo.ml/post/yun-dong-yuan-ge-xian-shen-tong/">
         </link>
         <updated>2021-10-06T10:51:13.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[运动会，发扬集体精神]]></title>
-        <id>https://test19124.github.io/post/yun-dong-hui-fa-yang-ji-ti-jing-shen/</id>
-        <link href="https://test19124.github.io/post/yun-dong-hui-fa-yang-ji-ti-jing-shen/">
+        <id>https://news.lizishuo.ml/post/yun-dong-hui-fa-yang-ji-ti-jing-shen/</id>
+        <link href="https://news.lizishuo.ml/post/yun-dong-hui-fa-yang-ji-ti-jing-shen/">
         </link>
         <updated>2021-10-06T10:49:10.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[陈校采访录]]></title>
-        <id>https://test19124.github.io/post/chen-xiao-cai-fang-lu/</id>
-        <link href="https://test19124.github.io/post/chen-xiao-cai-fang-lu/">
+        <id>https://news.lizishuo.ml/post/chen-xiao-cai-fang-lu/</id>
+        <link href="https://news.lizishuo.ml/post/chen-xiao-cai-fang-lu/">
         </link>
         <updated>2021-10-06T03:52:23.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[“速通”1500 ]]></title>
-        <id>https://test19124.github.io/post/su-tong-1500/</id>
-        <link href="https://test19124.github.io/post/su-tong-1500/">
+        <id>https://news.lizishuo.ml/post/su-tong-1500/</id>
+        <link href="https://news.lizishuo.ml/post/su-tong-1500/">
         </link>
         <updated>2021-10-06T03:49:07.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[消息]]></title>
-        <id>https://test19124.github.io/post/xiao-xi/</id>
-        <link href="https://test19124.github.io/post/xiao-xi/">
+        <id>https://news.lizishuo.ml/post/xiao-xi/</id>
+        <link href="https://news.lizishuo.ml/post/xiao-xi/">
         </link>
         <updated>2021-10-06T03:16:57.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[飞扬向前，永不停歇]]></title>
-        <id>https://test19124.github.io/post/fei-yang-xiang-qian-yong-bu-ting-xie/</id>
-        <link href="https://test19124.github.io/post/fei-yang-xiang-qian-yong-bu-ting-xie/">
+        <id>https://news.lizishuo.ml/post/fei-yang-xiang-qian-yong-bu-ting-xie/</id>
+        <link href="https://news.lizishuo.ml/post/fei-yang-xiang-qian-yong-bu-ting-xie/">
         </link>
         <updated>2021-10-06T03:13:37.000Z</updated>
     </entry>
